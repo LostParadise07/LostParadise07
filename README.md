@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asrar Ul Haq</h1>
-<h3 align="center">A passionate FullStack Web Developer from India</h3>
+<h3 align="center">A passionate FullStack Web Developer, Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostparadise07&label=Profile%20views&color=0e75b6&style=flat" alt="lostparadise07" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/aulhaq935" target="blank"><img src="https://img.shields.io/twitter/follow/aulhaq935?logo=twitter&style=for-the-badge" alt="aulhaq935" /></a> </p>
 
-- 🔭 I’m currently working on **Risc V SIngle Cycle Processor**
+- 🔭 I’m currently working on **Building Medical App using Dart**
 
 - 🌱 I’m currently learning **Node.js,Flask,React Native**
 
-- 👯 I’m looking to collaborate on [Line Encoder](https://github.com/LostParadise07/Line_Encoder/tree/main/Line-Encoder-main)
+- 👯 I’m looking to collaborate on [Line Encoder](https://github.com/LostParadise07/Line_Encoder)
 
 - 🤝 I’m looking for help with **Text Extractor APP in Flask**
 
