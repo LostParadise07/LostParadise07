@@ -1,13 +1,12 @@
-name: Generate Contribution Snake
+name: Generate Contribution Animations
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
-      - master
 
 jobs:
   generate:
@@ -16,15 +15,23 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: LostParadise07
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "pacman"
+          hide_month_labels: "false"
+
+      - name: Publish all animations
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
