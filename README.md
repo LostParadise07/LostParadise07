@@ -1,92 +1,567 @@
-<h1 align="center">Hi 👋, I'm Asrar Ul Haq</h1>
-<h3 align="center">A passionate Software Developer,from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lostparadise07&label=Profile%20views&color=0e75b6&style=flat" alt="lostparadise07" /> </p>
+<a href="https://github.com/LostParadise07">
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=lostparadise07" alt="lostparadise07" /></a> </p>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=ASRAR%20UL%20HAQ&fontSize=46&fontAlignY=38&fontFamily=JetBrains%20Mono&fontColor=F8FAFC&desc=Backend%20Software%20Developer%20%7C%20Systems%20%26%20Networking%20Explorer&descAlignY=62&descSize=17&descColor=C7D2E4&color=0:0B132B,45:334E68,75:5C7AEA,100:5BC0BE&animation=fadeIn"
+alt="Asrar Ul Haq — Backend Software Developer"
+width="100%"
+/>
 
-<p align="left"> <a href="https://twitter.com/aulhaq935" target="blank"><img src="https://img.shields.io/twitter/follow/aulhaq935?logo=twitter&style=for-the-badge" alt="aulhaq935" /></a> </p>
+</a>
 
-- 🔭 I have worked on **Building Medical App using Dart**
+<br>
 
-- 🌱 I’m currently learning **Nest.js.
-
-- 👯 I have completed project on [Line Encoder](https://github.com/LostParadise07/Line_Encoder)
-
-- 🤝 I have worked on project **Text Extractor APP in Flask**
-
-- 👨‍💻 All of my projects are available at [https://lostparadise07.github.io/](https://lostparadise07.github.io/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/asrar-ul-haq-70a01b222**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aulhaq935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aulhaq935" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asrar-ul-haq-70a01b222" height="30" width="40" /></a>
-<a href="https://instagram.com/asrar__ul__haq?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/aasrar_ul_haq?utm_medium=copy_link" height="30" width="40" /></a>
-<a href="https://leetcode.com/asrar_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/asrar_07/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/asrar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-<h3 align="left">Support:</h3>
 <p>
-<a href="https://www.buymeacoffee.com/asrar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/asrar" /></a>
-<a href="https://ko-fi.com/asrar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/asrar" /></a>
+  <a href="https://github.com/LostParadise07">
+    <img src="https://img.shields.io/badge/GitHub-LostParadise07-0B132B?style=flat-square&labelColor=334E68" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-5C7AEA?style=flat-square&labelColor=334E68" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/asrar_07/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-5BC0BE?style=flat-square&labelColor=334E68" alt="LeetCode"/>
+  </a>
 </p>
 
-<br><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lostparadise07&show_icons=true&locale=en&layout=compact" alt="lostparadise07" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lostparadise07&show_icons=true&locale=en" alt="lostparadise07" /></p>
+<div align="center">
 
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=5C7AEA&center=true&vCenter=true&width=780&height=42&lines=backend+engineering+%2B+systems+curiosity;building+things+to+understand+them;networks%2C+kernels%2C+APIs+%26+software;build+%E2%86%92+debug+%E2%86%92+understand"
+alt="Developer focus typing animation"
+/>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/asrar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### &nbsp;About Me :
-
-I am a zsoftware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡️ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrar-ul-haq-70a01b222)
+</div>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+## `01 / whoami`
+
+```json
+{
+  "name": "Asrar Ul Haq",
+  "handle": "LostParadise07",
+  "identity": "Backend Software Developer",
+  "mode": [
+    "build",
+    "experiment",
+    "debug",
+    "understand"
+  ],
+  "interests": [
+    "backend engineering",
+    "systems programming",
+    "networking",
+    "software architecture"
+  ],
+  "languages": [
+    "Python",
+    "C",
+    "C++",
+    "Dart"
+  ]
+}
+```
+
+I like working across the stack of abstraction — from backend services and applications
+down to operating systems, instruction sets, and network behavior.
+
+My GitHub is less of a showcase of finished products and more of a **record of things I wanted to understand by building them**.
+
+---
+
+## `02 / engineering lab`
+
+```text
+     ┌─────────────────────────────────────────────┐
+     │                ENGINEERING LAB              │
+     └─────────────────────────────────────────────┘
+
+                    CPU / ISA
+                       │
+                       ▼
+                OPERATING SYSTEM
+                       │
+                       ▼
+                   NETWORKING
+                       │
+                       ▼
+                    BACKEND
+                       │
+                       ▼
+                  DATA / APIs
+                       │
+                       ▼
+                  APPLICATIONS
+
+
+             implement → inspect → debug
+                         ↓
+                     understand
+```
+
+The interesting part is the movement between layers.
+
+A project might start with a protocol, move into a simulator, become
+an operating-system experiment, or turn into a backend application.
+
+The tools change.
+
+The curiosity doesn't.
+
+---
+
+# `03 / selected work`
+
+<div align="center">
+
+### SYSTEMS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 · linux-kernel</h3>
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<a href="https://github.com/LostParadise07/linux-kernel">
+<img src="https://img.shields.io/badge/C-Linux%20Kernel-0B132B?style=flat-square&labelColor=334E68" alt="C Linux Kernel"/>
+</a>
 </p>
+
+A modified Linux kernel focused on experimentation below the application layer.
+
+<strong>Inside the repo</strong>
+
+Custom system calls covering integer operations, swapping,
+string/array operations, and structure handling.
+
+<br><br>
+
+<a href="https://github.com/LostParadise07/linux-kernel">
+Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>02 · xv6-riscV</h3>
+
+<p>
+<a href="https://github.com/LostParadise07/xv6-riscV">
+<img src="https://img.shields.io/badge/C-RISC--V-334E68?style=flat-square&labelColor=0B132B" alt="C RISC-V"/>
+</a>
+</p>
+
+A modified version of MIT's xv6 operating system for RISC-V.
+
+<strong>Inside the repo</strong>
+
+Custom commands and system-level experiments with a
+QEMU-based build and execution workflow.
+
+<br><br>
+
+<a href="https://github.com/LostParadise07/xv6-riscV">
+Repository →
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ARCHITECTURE · NETWORKING
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 · RV32I-Assembler</h3>
+
+<p>
+<a href="https://github.com/LostParadise07/RV32I-Assembler">
+<img src="https://img.shields.io/badge/C%2B%2B17-RISC--V-5C7AEA?style=flat-square&labelColor=334E68" alt="C++17 RISC-V"/>
+</a>
+</p>
+
+An assembler for the **RISC-V 32-bit base integer instruction set**.
+
+<strong>Why it stands out</strong>
+
+It moves from using systems to implementing tooling
+around the instruction set itself.
+
+<br><br>
+
+<a href="https://github.com/LostParadise07/RV32I-Assembler">
+Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>04 · Network_Simulator</h3>
+
+<p>
+<a href="https://github.com/LostParadise07/Network_Simulator">
+<img src="https://img.shields.io/badge/Python-Networking-5BC0BE?style=flat-square&labelColor=334E68" alt="Python Networking"/>
+</a>
+</p>
+
+A networking playground organized around multiple protocol layers.
+
+<strong>Inside the repo</strong>
+
+Application, data-link, physical, network and transport
+components, with CRC, hubs, switches, Stop-and-Wait
+and Selective Repeat implementations.
+
+<br><br>
+
+<a href="https://github.com/LostParadise07/Network_Simulator">
+Repository →
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### EXPERIMENTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>05 · Line_Encoder</h3>
+
+<p>
+<a href="https://github.com/LostParadise07/Line_Encoder">
+<img src="https://img.shields.io/badge/Python-Signal%20Encoding-7A6F9B?style=flat-square&labelColor=334E68" alt="Python Signal Encoding"/>
+</a>
+</p>
+
+Line coding and scrambling implemented as executable experiments.
+
+<strong>Covers</strong>
+
+`NRZ-L` · `NRZ-I` · `Manchester`
+`Differential Manchester` · `AMI`
+`B8ZS` · `HDB3`
+
+<br><br>
+
+<a href="https://github.com/LostParadise07/Line_Encoder">
+Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>06 · Medical_app</h3>
+
+<p>
+<a href="https://github.com/LostParadise07/Medical_app">
+<img src="https://img.shields.io/badge/Dart-Flutter-5C7AEA?style=flat-square&labelColor=334E68" alt="Dart Flutter"/>
+</a>
+</p>
+
+A Flutter application project representing the application
+side of the engineering spectrum.
+
+<strong>Stack</strong>
+
+`Dart` · `Flutter`
+
+<br><br>
+
+<a href="https://github.com/LostParadise07/Medical_app">
+Repository →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 / how I think`
+
+```text
+                 ┌───────────────────┐
+                 │      PROBLEM      │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │     MODEL IT      │
+                 └─────────┬─────────┘
+                           │
+                  ┌────────┴────────┐
+                  │                 │
+                  ▼                 ▼
+           ┌─────────────┐   ┌─────────────┐
+           │  IMPLEMENT  │   │ EXPERIMENT  │
+           └──────┬──────┘   └──────┬──────┘
+                  │                 │
+                  └────────┬────────┘
+                           ▼
+                 ┌───────────────────┐
+                 │  DEBUG / OBSERVE  │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │    UNDERSTAND     │
+                 └───────────────────┘
+```
+
+I enjoy engineering work where **implementation is also a way of learning**.
+
+That is why my public repositories move between kernels, instruction sets,
+networking concepts, backend software, and applications.
+
+---
+
+## `05 / technology`
+
+### Languages
+
+<p>
+  <img src="https://cdn.simpleicons.org/python" width="38" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/c" width="38" alt="C"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" width="38" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/java" width="38" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="38" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript" width="38" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/dart" width="38" alt="Dart"/>
+</p>
+
+### Backend
+
+`Python` · `Django` · `Flask` · `REST APIs` · `Webhooks` · `Microservices` · `API Integration`
+
+### Systems & Networking
+
+`C` · `C++` · `Linux` · `RISC-V` · `xv6` · `QEMU` · `Networking` · `Protocols`
+
+### Data & Infrastructure
+
+`PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Kubernetes` · `AWS` · `Git`
+
+### Application
+
+<p>
+  <img src="https://cdn.simpleicons.org/flutter" width="38" alt="Flutter"/>
+  <img src="https://cdn.simpleicons.org/firebase" width="38" alt="Firebase"/>
+</p>
+
+`Flutter` · `Dart` · `Firebase`
+
+---
+
+## `06 / current exploration`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SYSTEMS
+
+```text
+kernel internals
+      ↓
+operating systems
+      ↓
+instruction sets
+      ↓
+low-level tooling
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### SOFTWARE
+
+```text
+backend systems
+      ↓
+APIs
+      ↓
+databases
+      ↓
+distributed workflows
+```
+
+</td>
+</tr>
+</table>
+
+```text
+CURRENT MODE
+
+[████████████████████░░]
+
+building      ●
+experimenting ●
+debugging    ●
+learning     ●
+```
+
+---
+
+# `07 / github telemetry`
+
+<div align="center">
+
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=LostParadise07&show_icons=true&hide_border=true&theme=github_dark&bg_color=0B132B&title_color=F8FAFC&text_color=C7D2E4&icon_color=5BC0BE"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=LostParadise07&show_icons=true&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=LostParadise07&show_icons=true&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
+      width="48%"
+      alt="GitHub statistics"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LostParadise07&layout=compact&hide_border=true&theme=github_dark&bg_color=0B132B&title_color=F8FAFC&text_color=C7D2E4&icon_color=5BC0BE"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LostParadise07&layout=compact&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostParadise07&layout=compact&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
+      width="48%"
+      alt="Top programming languages"
+    />
+  </picture>
+</p>
+
+<br>
+
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=LostParadise07&hide_border=true&background=0B132B&ring=5C7AEA&fire=5BC0BE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=C7D2E4&sideLabels=C7D2E4&dates=94A3B8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=LostParadise07&hide_border=true&background=F4F7FB&ring=5C7AEA&fire=5BC0BE&currStreakNum=0B132B&sideNums=334E68&currStreakLabel=334E68&sideLabels=475569&dates=64748B"
+    />
+    <img
+      src="https://streak-stats.demolab.com/?user=LostParadise07&hide_border=true&background=F4F7FB&ring=5C7AEA&fire=5BC0BE&currStreakNum=0B132B&sideNums=334E68&currStreakLabel=334E68&sideLabels=475569&dates=64748B"
+      width="72%"
+      alt="GitHub contribution streak"
+    />
+  </picture>
+</p>
+
+</div>
+
+---
+
+## `08 / contribution trace`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-snake.svg"
+    alt="GitHub contribution snake"
+    width="90%"
+  />
+</picture>
+
+</div>
+
+---
+
+## `09 / connect`
+
+<div align="center">
+
+<a href="https://github.com/LostParadise07">
+  <img src="https://cdn.simpleicons.org/github/0B132B" width="34" alt="GitHub"/>
+</a>
+
+   
+
+<a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">
+  <img src="https://cdn.simpleicons.org/linkedin/5C7AEA" width="34" alt="LinkedIn"/>
+</a>
+
+   
+
+<a href="https://leetcode.com/asrar_07/">
+  <img src="https://cdn.simpleicons.org/leetcode/5BC0BE" width="34" alt="LeetCode"/>
+</a>
+
+   
+
+<a href="mailto:shahaasrar1@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/7A6F9B" width="34" alt="Email"/>
+</a>
+
+<br><br>
+
+<a href="https://lostparadise07.github.io/">
+  <strong>Portfolio</strong>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5BC0BE,40:5C7AEA,70:334E68,100:0B132B"
+alt="Footer"
+/>
+
+### Build it. Break it. Understand it.
+
+<sub>Backend by craft. Systems by curiosity.</sub>
+
+</div>
