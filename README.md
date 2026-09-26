@@ -1,303 +1,116 @@
 <div align="center">
 
 <a href="https://github.com/LostParadise07">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=ASRAR%20UL%20HAQ&fontSize=46&fontAlignY=38&fontFamily=JetBrains%20Mono&fontColor=F8FAFC&desc=Backend%20Software%20Developer%20%7C%20Systems%20%26%20Networking%20Explorer&descAlignY=62&descSize=17&descColor=C7D2E4&color=0:0B132B,45:334E68,75:5C7AEA,100:5BC0BE&animation=fadeIn"
-alt="Asrar Ul Haq — Backend Software Developer"
-width="100%"
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=ASRAR%20UL%20HAQ&fontSize=52&fontAlignY=42&fontFamily=JetBrains%20Mono&fontColor=F8FAFC&desc=BACKEND%20ENGINEERING%20%C2%B7%20AI%20EXPERIMENTS%20%C2%B7%20SYSTEMS&descAlignY=67&descSize=16&descColor=B7C3D4&color=0:0B132B,55:1E293B,100:334E68"
+    alt="Asrar Ul Haq"
+    width="100%"
+  />
 </a>
 
-<br>
+<br />
 
-<p>
-  <a href="https://github.com/LostParadise07">
-    <img src="https://img.shields.io/badge/GitHub-LostParadise07-0B132B?style=flat-square&labelColor=334E68" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-5C7AEA?style=flat-square&labelColor=334E68" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/asrar_07/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-5BC0BE?style=flat-square&labelColor=334E68" alt="LeetCode"/>
-  </a>
-</p>
+<a href="https://github.com/LostParadise07">
+  <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">
+  <img src="https://img.shields.io/badge/LinkedIn-334E68?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/asrar_07/">
+  <img src="https://img.shields.io/badge/LeetCode-5C7AEA?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="mailto:shahaasrar1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-5BC0BE?style=flat-square&logo=gmail&logoColor=0B132B" alt="Email" />
+</a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br /><br />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=5C7AEA&center=true&vCenter=true&width=780&height=42&lines=backend+engineering+%2B+systems+curiosity;building+things+to+understand+them;networks%2C+kernels%2C+APIs+%26+software;build+%E2%86%92+debug+%E2%86%92+understand"
-alt="Developer focus typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1000&color=5C7AEA&center=true&vCenter=true&width=760&height=42&lines=building+backend+systems;experimenting+with+AI+interfaces;working+with+APIs%2C+databases+%26+distributed+workflows;learning+by+building+and+debugging"
+alt="Current engineering focus"
 />
 
 </div>
 
 ---
 
-## `01 / whoami`
+## `01 / identity`
 
 ```json
 {
   "name": "Asrar Ul Haq",
   "handle": "LostParadise07",
-  "identity": "Backend Software Developer",
-  "mode": [
-    "build",
-    "experiment",
-    "debug",
-    "understand"
+  "role": "Backend Software Developer",
+  "focus": [
+    "Backend",
+    "APIs",
+    "AI experiments",
+    "Systems"
   ],
-  "interests": [
-    "backend engineering",
-    "systems programming",
-    "networking",
-    "software architecture"
+  "primary_language": "C++", "Java", "Python",
+  "currently_exploring": [
+    "AI-powered applications",
+    "backend architecture",
+    "developer tooling"
   ],
-  "languages": [
-    "Python",
-    "C",
-    "C++",
-    "Dart"
-  ]
+  "philosophy": "build → debug → understand"
 }
 ```
 
-I like working across the stack of abstraction — from backend services and applications
-down to operating systems, instruction sets, and network behavior.
+I use GitHub as an engineering workspace: a place to build applications, try ideas, study systems, and turn concepts into working software.
 
-My GitHub is less of a showcase of finished products and more of a **record of things I wanted to understand by building them**.
+My recent work leans toward **backend development, API-driven systems, AI experiments, and practical applications**.
 
 ---
 
-## `02 / engineering lab`
+## `02 / currently building`
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### `turaath-library`
+
+**Digital library application**
+
+A recent Python project for accessing and reading Islamic scholarly works.
+
+The repository has continued evolving beyond its initial creation, with recent work around:
+
+* expanding the library content
+* automatic library-index updates
+* book metadata/assets
+* Android APK distribution
+* improving the download flow
+
+<a href="https://github.com/LostParadise07/turaath-library">
+  <strong>→ open repository</strong>
+</a>
+
+</td>
+
+<td width="42%" valign="top">
 
 ```text
-     ┌─────────────────────────────────────────────┐
-     │                ENGINEERING LAB              │
-     └─────────────────────────────────────────────┘
+2026
 
-                    CPU / ISA
-                       │
-                       ▼
-                OPERATING SYSTEM
-                       │
-                       ▼
-                   NETWORKING
-                       │
-                       ▼
-                    BACKEND
-                       │
-                       ▼
-                  DATA / APIs
-                       │
-                       ▼
-                  APPLICATIONS
-
-
-             implement → inspect → debug
-                         ↓
-                     understand
+new repository
+      ↓
+content pipeline
+      ↓
+library index
+      ↓
+distribution
+      ↓
+mobile access
 ```
 
-The interesting part is the movement between layers.
+**Primary language**
 
-A project might start with a protocol, move into a simulator, become
-an operating-system experiment, or turn into a backend application.
-
-The tools change.
-
-The curiosity doesn't.
-
----
-
-# `03 / selected work`
-
-<div align="center">
-
-### SYSTEMS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01 · linux-kernel</h3>
-
-<p>
-<a href="https://github.com/LostParadise07/linux-kernel">
-<img src="https://img.shields.io/badge/C-Linux%20Kernel-0B132B?style=flat-square&labelColor=334E68" alt="C Linux Kernel"/>
-</a>
-</p>
-
-A modified Linux kernel focused on experimentation below the application layer.
-
-<strong>Inside the repo</strong>
-
-Custom system calls covering integer operations, swapping,
-string/array operations, and structure handling.
-
-<br><br>
-
-<a href="https://github.com/LostParadise07/linux-kernel">
-Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>02 · xv6-riscV</h3>
-
-<p>
-<a href="https://github.com/LostParadise07/xv6-riscV">
-<img src="https://img.shields.io/badge/C-RISC--V-334E68?style=flat-square&labelColor=0B132B" alt="C RISC-V"/>
-</a>
-</p>
-
-A modified version of MIT's xv6 operating system for RISC-V.
-
-<strong>Inside the repo</strong>
-
-Custom commands and system-level experiments with a
-QEMU-based build and execution workflow.
-
-<br><br>
-
-<a href="https://github.com/LostParadise07/xv6-riscV">
-Repository →
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### ARCHITECTURE · NETWORKING
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 · RV32I-Assembler</h3>
-
-<p>
-<a href="https://github.com/LostParadise07/RV32I-Assembler">
-<img src="https://img.shields.io/badge/C%2B%2B17-RISC--V-5C7AEA?style=flat-square&labelColor=334E68" alt="C++17 RISC-V"/>
-</a>
-</p>
-
-An assembler for the **RISC-V 32-bit base integer instruction set**.
-
-<strong>Why it stands out</strong>
-
-It moves from using systems to implementing tooling
-around the instruction set itself.
-
-<br><br>
-
-<a href="https://github.com/LostParadise07/RV32I-Assembler">
-Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>04 · Network_Simulator</h3>
-
-<p>
-<a href="https://github.com/LostParadise07/Network_Simulator">
-<img src="https://img.shields.io/badge/Python-Networking-5BC0BE?style=flat-square&labelColor=334E68" alt="Python Networking"/>
-</a>
-</p>
-
-A networking playground organized around multiple protocol layers.
-
-<strong>Inside the repo</strong>
-
-Application, data-link, physical, network and transport
-components, with CRC, hubs, switches, Stop-and-Wait
-and Selective Repeat implementations.
-
-<br><br>
-
-<a href="https://github.com/LostParadise07/Network_Simulator">
-Repository →
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### EXPERIMENTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>05 · Line_Encoder</h3>
-
-<p>
-<a href="https://github.com/LostParadise07/Line_Encoder">
-<img src="https://img.shields.io/badge/Python-Signal%20Encoding-7A6F9B?style=flat-square&labelColor=334E68" alt="Python Signal Encoding"/>
-</a>
-</p>
-
-Line coding and scrambling implemented as executable experiments.
-
-<strong>Covers</strong>
-
-`NRZ-L` · `NRZ-I` · `Manchester`
-`Differential Manchester` · `AMI`
-`B8ZS` · `HDB3`
-
-<br><br>
-
-<a href="https://github.com/LostParadise07/Line_Encoder">
-Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>06 · Medical_app</h3>
-
-<p>
-<a href="https://github.com/LostParadise07/Medical_app">
-<img src="https://img.shields.io/badge/Dart-Flutter-5C7AEA?style=flat-square&labelColor=334E68" alt="Dart Flutter"/>
-</a>
-</p>
-
-A Flutter application project representing the application
-side of the engineering spectrum.
-
-<strong>Stack</strong>
-
-`Dart` · `Flutter`
-
-<br><br>
-
-<a href="https://github.com/LostParadise07/Medical_app">
-Repository →
-</a>
+`Python`
 
 </td>
 </tr>
@@ -305,191 +118,165 @@ Repository →
 
 ---
 
-## `04 / how I think`
+## `03 / AI lab`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `conversational_ai`
+
+**Conversational AI experiment**
+
+A Vue + TypeScript + Vite application built around AI chat interaction.
+
+The repository includes work involving:
+
+* OpenRouter API integration
+* chat responses
+* prompt refinement
+* speech recognition
+* Vue component development
+
+Recent repository history shows active development around the AI response flow and speech-recognition interface.
+
+<a href="https://github.com/LostParadise07/conversational_ai">
+  <strong>→ open repository</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ```text
-                 ┌───────────────────┐
-                 │      PROBLEM      │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │     MODEL IT      │
-                 └─────────┬─────────┘
-                           │
-                  ┌────────┴────────┐
-                  │                 │
-                  ▼                 ▼
-           ┌─────────────┐   ┌─────────────┐
-           │  IMPLEMENT  │   │ EXPERIMENT  │
-           └──────┬──────┘   └──────┬──────┘
-                  │                 │
-                  └────────┬────────┘
-                           ▼
-                 ┌───────────────────┐
-                 │  DEBUG / OBSERVE  │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │    UNDERSTAND     │
-                 └───────────────────┘
+USER INPUT
+    │
+    ├── text
+    │
+    └── speech
+         │
+         ▼
+    AI REQUEST
+         │
+         ▼
+     RESPONSE
 ```
 
-I enjoy engineering work where **implementation is also a way of learning**.
+**Stack**
 
-That is why my public repositories move between kernels, instruction sets,
-networking concepts, backend software, and applications.
+`Vue` · `TypeScript` · `Vite` · `OpenRouter`
+
+</td>
+</tr>
+</table>
+
+> This is an AI-focused repository in the public GitHub history; its latest verified commits are from April 2025.
 
 ---
 
-## `05 / technology`
+## `04 / recent engineering`
 
-### Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://cdn.simpleicons.org/python" width="38" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/c" width="38" alt="C"/>
-  <img src="https://cdn.simpleicons.org/cplusplus" width="38" alt="C++"/>
-  <img src="https://cdn.simpleicons.org/java" width="38" alt="Java"/>
-  <img src="https://cdn.simpleicons.org/javascript" width="38" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript" width="38" alt="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/dart" width="38" alt="Dart"/>
-</p>
+### `Ecommerce`
+
+Backend application work involving database models, migrations, media handling, URL structure, categories and products.
+
+<a href="https://github.com/LostParadise07/Ecommerce">
+  <strong>→ repository</strong>
+</a>
+
+<br /><br />
+
+`Python` · `Django`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `FedSparseMaml`
+
+Research-oriented machine-learning work around federated learning, sparse attention and meta-learning for heterogeneous data.
+
+<a href="https://github.com/LostParadise07/FedSparseMaml">
+  <strong>→ repository</strong>
+</a>
+
+<br /><br />
+
+`Python` · `Federated Learning` · `Transformers`
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## `05 / engineering stack`
 
 ### Backend
 
-`Python` · `Django` · `Flask` · `REST APIs` · `Webhooks` · `Microservices` · `API Integration`
-
-### Systems & Networking
-
-`C` · `C++` · `Linux` · `RISC-V` · `xv6` · `QEMU` · `Networking` · `Protocols`
-
-### Data & Infrastructure
-
-`PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Kubernetes` · `AWS` · `Git`
-
-### Application
-
 <p>
-  <img src="https://cdn.simpleicons.org/flutter" width="38" alt="Flutter"/>
-  <img src="https://cdn.simpleicons.org/firebase" width="38" alt="Firebase"/>
+  <img src="https://cdn.simpleicons.org/python" width="38" alt="Python" />
+  <img src="https://cdn.simpleicons.org/django" width="38" alt="Django" />
+  <img src="https://cdn.simpleicons.org/flask" width="38" alt="Flask" />
+  <img src="https://cdn.simpleicons.org/fastapi" width="38" alt="FastAPI" />
 </p>
 
-`Flutter` · `Dart` · `Firebase`
+`Python` · `Django` · `Flask` · `FastAPI` · `REST APIs` · `Webhooks`
+
+### Data & infrastructure
+
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql" width="38" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mysql" width="38" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/redis" width="38" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/docker" width="38" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/kubernetes" width="38" alt="Kubernetes" />
+</p>
+
+`PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Kubernetes`
+
+### AI / application layer
+
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" width="38" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/vue.js" width="38" alt="Vue" />
+  <img src="https://cdn.simpleicons.org/javascript" width="38" alt="JavaScript" />
+</p>
+
+`TypeScript` · `Vue` · `JavaScript` . `AI integrations` · `OpenRouter` 
+
+### Systems
+
+`C` · `C++` · `Linux` · `RISC-V` · `Networking`
 
 ---
-
-## `06 / current exploration`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### SYSTEMS
-
-```text
-kernel internals
-      ↓
-operating systems
-      ↓
-instruction sets
-      ↓
-low-level tooling
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### SOFTWARE
-
-```text
-backend systems
-      ↓
-APIs
-      ↓
-databases
-      ↓
-distributed workflows
-```
-
-</td>
-</tr>
-</table>
-
-```text
-CURRENT MODE
-
-[████████████████████░░]
-
-building      ●
-experimenting ●
-debugging    ●
-learning     ●
-```
-
----
-
-# `07 / github telemetry`
+## `07 / coding activity`
 
 <div align="center">
 
-<p>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=LostParadise07&show_icons=true&hide_border=true&theme=github_dark&bg_color=0B132B&title_color=F8FAFC&text_color=C7D2E4&icon_color=5BC0BE"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=LostParadise07&show_icons=true&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=LostParadise07&show_icons=true&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
-      width="48%"
-      alt="GitHub statistics"
-    />
-  </picture>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=LostParadise07&theme=github-compact&hide_border=true&area=true"
+alt="GitHub contribution activity"
+width="96%"
+/>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LostParadise07&layout=compact&hide_border=true&theme=github_dark&bg_color=0B132B&title_color=F8FAFC&text_color=C7D2E4&icon_color=5BC0BE"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LostParadise07&layout=compact&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostParadise07&layout=compact&hide_border=true&theme=default&bg_color=F4F7FB&title_color=0B132B&text_color=334E68&icon_color=5C7AEA"
-      width="48%"
-      alt="Top programming languages"
-    />
-  </picture>
-</p>
+<br /><br />
 
-<br>
-
-<p>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=LostParadise07&hide_border=true&background=0B132B&ring=5C7AEA&fire=5BC0BE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=C7D2E4&sideLabels=C7D2E4&dates=94A3B8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=LostParadise07&hide_border=true&background=F4F7FB&ring=5C7AEA&fire=5BC0BE&currStreakNum=0B132B&sideNums=334E68&currStreakLabel=334E68&sideLabels=475569&dates=64748B"
-    />
-    <img
-      src="https://streak-stats.demolab.com/?user=LostParadise07&hide_border=true&background=F4F7FB&ring=5C7AEA&fire=5BC0BE&currStreakNum=0B132B&sideNums=334E68&currStreakLabel=334E68&sideLabels=475569&dates=64748B"
-      width="72%"
-      alt="GitHub contribution streak"
-    />
-  </picture>
-</p>
+<a href="https://github.com/LostParadise07">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostParadise07&theme=github_dark"
+    alt="GitHub contribution summary"
+    width="96%"
+  />
+</a>
 
 </div>
+
 
 ---
 
@@ -521,47 +308,13 @@ learning     ●
 
 <div align="center">
 
-<a href="https://github.com/LostParadise07">
-  <img src="https://cdn.simpleicons.org/github/0B132B" width="34" alt="GitHub"/>
-</a>
+<a href="https://github.com/LostParadise07">GitHub</a>
+  ·   <a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">LinkedIn</a>
+  ·   <a href="https://leetcode.com/asrar_07/">LeetCode</a>
+  ·   <a href="https://lostparadise07.github.io/">Portfolio</a>
 
-   
+<br /><br />
 
-<a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">
-  <img src="https://cdn.simpleicons.org/linkedin/5C7AEA" width="34" alt="LinkedIn"/>
-</a>
-
-   
-
-<a href="https://leetcode.com/asrar_07/">
-  <img src="https://cdn.simpleicons.org/leetcode/5BC0BE" width="34" alt="LeetCode"/>
-</a>
-
-   
-
-<a href="mailto:shahaasrar1@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/7A6F9B" width="34" alt="Email"/>
-</a>
-
-<br><br>
-
-<a href="https://lostparadise07.github.io/">
-  <strong>Portfolio</strong>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5BC0BE,40:5C7AEA,70:334E68,100:0B132B"
-alt="Footer"
-/>
-
-### Build it. Break it. Understand it.
-
-<sub>Backend by craft. Systems by curiosity.</sub>
+<sub>Build it. Debug it. Understand it.</sub>
 
 </div>
