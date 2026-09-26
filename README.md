@@ -47,215 +47,91 @@ alt="Current engineering focus"
   "focus": [
     "Backend",
     "APIs",
-    "AI experiments",
+    "AI",
     "Systems"
   ],
-  "primary_language": "C++", "Java", "Python",
-  "currently_exploring": [
-    "AI-powered applications",
-    "backend architecture",
-    "developer tooling"
+  "languages": [
+    "Python",
+    "C++",
+    "Java"
   ],
   "philosophy": "build → debug → understand"
 }
 ```
 
-I use GitHub as an engineering workspace: a place to build applications, try ideas, study systems, and turn concepts into working software.
-
-My recent work leans toward **backend development, API-driven systems, AI experiments, and practical applications**.
+I use GitHub as an engineering workspace — building systems, experimenting with ideas, and learning through implementation.
 
 ---
 
 ## `02 / currently building`
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ### `turaath-library`
 
 **Digital library application**
 
-A recent Python project for accessing and reading Islamic scholarly works.
+Python-based project focused on accessing and reading Islamic scholarly works.
 
-The repository has continued evolving beyond its initial creation, with recent work around:
-
-* expanding the library content
-* automatic library-index updates
-* book metadata/assets
-* Android APK distribution
-* improving the download flow
+`Python` · `Library` · `Android`
 
 <a href="https://github.com/LostParadise07/turaath-library">
   <strong>→ open repository</strong>
 </a>
 
-</td>
-
-<td width="42%" valign="top">
-
-```text
-2026
-
-new repository
-      ↓
-content pipeline
-      ↓
-library index
-      ↓
-distribution
-      ↓
-mobile access
-```
-
-**Primary language**
-
-`Python`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## `03 / AI lab`
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### `conversational_ai`
 
 **Conversational AI experiment**
 
-A Vue + TypeScript + Vite application built around AI chat interaction.
+Vue + TypeScript + Vite application built around AI chat interaction, OpenRouter integration, and speech input.
 
-The repository includes work involving:
-
-* OpenRouter API integration
-* chat responses
-* prompt refinement
-* speech recognition
-* Vue component development
-
-Recent repository history shows active development around the AI response flow and speech-recognition interface.
+`Vue` · `TypeScript` · `Vite` · `OpenRouter`
 
 <a href="https://github.com/LostParadise07/conversational_ai">
   <strong>→ open repository</strong>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-```text
-USER INPUT
-    │
-    ├── text
-    │
-    └── speech
-         │
-         ▼
-    AI REQUEST
-         │
-         ▼
-     RESPONSE
-```
-
-**Stack**
-
-`Vue` · `TypeScript` · `Vite` · `OpenRouter`
-
-</td>
-</tr>
-</table>
-
-> This is an AI-focused repository in the public GitHub history; its latest verified commits are from April 2025.
+> AI-focused repository from my public GitHub history; latest verified commits are from April 2025.
 
 ---
 
-## `04 / recent engineering`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `Ecommerce`
-
-Backend application work involving database models, migrations, media handling, URL structure, categories and products.
-
-<a href="https://github.com/LostParadise07/Ecommerce">
-  <strong>→ repository</strong>
-</a>
-
-<br /><br />
-
-`Python` · `Django`
-
-</td>
-
-<td width="50%" valign="top">
+## `04 / selected engineering`
 
 ### `FedSparseMaml`
 
-Research-oriented machine-learning work around federated learning, sparse attention and meta-learning for heterogeneous data.
-
-<a href="https://github.com/LostParadise07/FedSparseMaml">
-  <strong>→ repository</strong>
-</a>
-
-<br /><br />
+Research-oriented machine-learning work involving federated learning, sparse attention, and meta-learning for heterogeneous data.
 
 `Python` · `Federated Learning` · `Transformers`
 
-</td>
-</tr>
-
-</table>
+<a href="https://github.com/LostParadise07/FedSparseMaml">
+  <strong>→ open repository</strong>
+</a>
 
 ---
 
 ## `05 / engineering stack`
 
-### Backend
-
-<p>
-  <img src="https://cdn.simpleicons.org/python" width="38" alt="Python" />
-  <img src="https://cdn.simpleicons.org/django" width="38" alt="Django" />
-  <img src="https://cdn.simpleicons.org/flask" width="38" alt="Flask" />
-  <img src="https://cdn.simpleicons.org/fastapi" width="38" alt="FastAPI" />
-</p>
+**Backend**
 
 `Python` · `Django` · `Flask` · `FastAPI` · `REST APIs` · `Webhooks`
 
-### Data & infrastructure
-
-<p>
-  <img src="https://cdn.simpleicons.org/postgresql" width="38" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/mysql" width="38" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/redis" width="38" alt="Redis" />
-  <img src="https://cdn.simpleicons.org/docker" width="38" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/kubernetes" width="38" alt="Kubernetes" />
-</p>
+**Data / Infrastructure**
 
 `PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Kubernetes`
 
-### AI / application layer
+**AI / Application**
 
-<p>
-  <img src="https://cdn.simpleicons.org/typescript" width="38" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/vue.js" width="38" alt="Vue" />
-  <img src="https://cdn.simpleicons.org/javascript" width="38" alt="JavaScript" />
-</p>
+`TypeScript` · `Vue` · `JavaScript` · `AI Integrations` · `OpenRouter`
 
-`TypeScript` · `Vue` · `JavaScript` . `AI integrations` · `OpenRouter` 
-
-### Systems
+**Systems**
 
 `C` · `C++` · `Linux` · `RISC-V` · `Networking`
 
 ---
-## `07 / coding activity`
+
+## `06 / coding activity`
 
 <div align="center">
 
@@ -307,9 +183,11 @@ Research-oriented machine-learning work around federated learning, sparse attent
 
 ---
 
-## `08 / contribution trace`
+## `07 / contribution trace`
 
 <div align="center">
+
+<h3>🐍 Contribution Snake</h3>
 
 <picture>
   <source
@@ -327,19 +205,28 @@ Research-oriented machine-learning work around federated learning, sparse attent
   />
 </picture>
 
-</div>
+<br /><br />
 
+<h3>🟡 Contribution Pac-Man</h3>
+
+<img
+src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman.svg"
+alt="GitHub contribution Pac-Man"
+width="90%"
+/>
+
+</div>
 
 ---
 
-## `09 / connect`
+## `08 / connect`
 
 <div align="center">
 
 <a href="https://github.com/LostParadise07">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">LinkedIn</a>
-  ·   <a href="https://leetcode.com/asrar_07/">LeetCode</a>
-  ·   <a href="https://lostparadise07.github.io/">Portfolio</a>
+ ·  <a href="https://www.linkedin.com/in/asrar-ul-haq-70a01b222">LinkedIn</a>
+ ·  <a href="https://leetcode.com/asrar_07/">LeetCode</a>
+ ·  <a href="https://lostparadise07.github.io/">Portfolio</a>
 
 <br /><br />
 
