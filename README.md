@@ -259,14 +259,6 @@ Research-oriented machine-learning work around federated learning, sparse attent
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=LostParadise07&theme=github-compact&hide_border=true&area=true"
-alt="GitHub contribution activity"
-width="96%"
-/>
-
-<br /><br />
-
 <a href="https://github.com/LostParadise07">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostParadise07&theme=github_dark"
@@ -275,8 +267,43 @@ width="96%"
   />
 </a>
 
-</div>
+<br /><br />
 
+<a href="https://github.com/LostParadise07">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LostParadise07&theme=github_dark"
+    alt="GitHub statistics"
+    width="48%"
+  />
+</a>
+
+<a href="https://github.com/LostParadise07">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LostParadise07&theme=github_dark"
+    alt="Repositories by language"
+    width="48%"
+  />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/LostParadise07">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LostParadise07&theme=github_dark"
+    alt="Most committed languages"
+    width="48%"
+  />
+</a>
+
+<a href="https://github.com/LostParadise07">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LostParadise07&theme=github_dark&utcOffset=5.5"
+    alt="Productive time"
+    width="48%"
+  />
+</a>
+
+</div>
 
 ---
 
@@ -287,20 +314,21 @@ width="96%"
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake.svg"
     alt="GitHub contribution snake"
     width="90%"
   />
 </picture>
 
 </div>
+
 
 ---
 
