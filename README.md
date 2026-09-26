@@ -205,15 +205,47 @@ Research-oriented machine-learning work involving federated learning, sparse att
   />
 </picture>
 
+## `07 / contribution trace`
+
+<div align="center">
+
+<h3>🐍 Contribution Snake</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    width="90%"
+  />
+</picture>
+
 <br /><br />
 
 <h3>🟡 Contribution Pac-Man</h3>
 
-<img
-  src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman.svg"
-  alt="GitHub contribution Pac-Man"
-  width="90%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman-contribution-graph.svg"
+    alt="GitHub contribution Pac-Man"
+    width="90%"
+  />
+</picture>
 
 </div>
 
