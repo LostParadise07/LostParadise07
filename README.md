@@ -101,6 +101,13 @@ Research-oriented machine-learning work involving federated learning, sparse att
 
 <div align="center">
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2400&pause=900&color=5C7AEA&center=true&vCenter=true&width=700&height=36&lines=tracking+commits+%C2%B7+repositories+%C2%B7+languages+%C2%B7+coding+time;activity+in+motion;building+consistently+%C2%B7+learning+continuously"
+  alt="Coding activity animation"
+/>
+
+<br /><br />
+
 <a href="https://github.com/LostParadise07">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostParadise07&theme=github_dark"
@@ -144,6 +151,22 @@ Research-oriented machine-learning work involving federated learning, sparse att
     width="48%"
   />
 </a>
+
+<br /><br />
+
+<img
+  src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake.svg"
+  alt="Animated GitHub contribution activity"
+  width="90%"
+/>
+
+<br /><br />
+
+<img
+  src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman-contribution-graph.svg"
+  alt="Animated GitHub contribution Pac-Man"
+  width="90%"
+/>
 
 </div>
 
