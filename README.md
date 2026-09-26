@@ -210,9 +210,9 @@ Research-oriented machine-learning work involving federated learning, sparse att
 <h3>🟡 Contribution Pac-Man</h3>
 
 <img
-src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman.svg"
-alt="GitHub contribution Pac-Man"
-width="90%"
+  src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/pacman.svg"
+  alt="GitHub contribution Pac-Man"
+  width="90%"
 />
 
 </div>
