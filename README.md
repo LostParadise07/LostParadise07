@@ -2,7 +2,7 @@
 
 <a href="https://github.com/LostParadise07">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=ASRAR%20UL%20HAQ&fontSize=52&fontAlignY=42&fontFamily=JetBrains%20Mono&fontColor=F8FAFC&desc=BACKEND%20ENGINEERING%20%C2%B7%20AI%20EXPERIMENTS%20%C2%B7%20SYSTEMS&descAlignY=67&descSize=16&descColor=B7C3D4&color=0:0B132B,55:1E293B,100:334E68"
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=ASRAR%20UL%20HAQ&fontSize=52&fontAlignY=42&fontFamily=JetBrains%20Mono&fontColor=F8FAFC&desc=SOFTWARE%20DEVELOPER&descAlignY=67&descSize=16&descColor=B7C3D4&color=0:0B132B,55:1E293B,100:334E68"
     alt="Asrar Ul Haq"
     width="100%"
   />
