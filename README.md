@@ -63,41 +63,7 @@ I use GitHub as an engineering workspace — building systems, experimenting wit
 
 ---
 
-## `02 / currently building`
-
-### `turaath-library`
-
-**Digital library application**
-
-Python-based project focused on accessing and reading Islamic scholarly works.
-
-`Python` · `Library` · `Android`
-
-<a href="https://github.com/LostParadise07/turaath-library">
-  <strong>→ open repository</strong>
-</a>
-
----
-
-## `03 / AI lab`
-
-### `conversational_ai`
-
-**Conversational AI experiment**
-
-Vue + TypeScript + Vite application built around AI chat interaction, OpenRouter integration, and speech input.
-
-`Vue` · `TypeScript` · `Vite` · `OpenRouter`
-
-<a href="https://github.com/LostParadise07/conversational_ai">
-  <strong>→ open repository</strong>
-</a>
-
-> AI-focused repository from my public GitHub history; latest verified commits are from April 2025.
-
----
-
-## `04 / selected engineering`
+## `02 / selected engineering`
 
 ### `FedSparseMaml`
 
@@ -111,7 +77,7 @@ Research-oriented machine-learning work involving federated learning, sparse att
 
 ---
 
-## `05 / engineering stack`
+## `03 / engineering stack`
 
 **Backend**
 
@@ -131,7 +97,7 @@ Research-oriented machine-learning work involving federated learning, sparse att
 
 ---
 
-## `06 / coding activity`
+## `04 / coding activity`
 
 <div align="center">
 
@@ -183,29 +149,7 @@ Research-oriented machine-learning work involving federated learning, sparse att
 
 ---
 
-## `07 / contribution trace`
-
-<div align="center">
-
-<h3>🐍 Contribution Snake</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/LostParadise07/LostParadise07/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-    width="90%"
-  />
-</picture>
-
-## `07 / contribution trace`
+## `05 / contribution trace`
 
 <div align="center">
 
@@ -251,7 +195,7 @@ Research-oriented machine-learning work involving federated learning, sparse att
 
 ---
 
-## `08 / connect`
+## `06 / connect`
 
 <div align="center">
 
